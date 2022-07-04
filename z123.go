@@ -2,5 +2,5 @@ package main
 
 func main()
 {
-  fmt.Println("test")
+  fmt.Println("test123")
 }
