@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("c p p\n");
+  printf("c p p aaa\n");
   return 0;
 }

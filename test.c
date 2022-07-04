@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("12345 hello world!\n");
+	printf("1234567890 hello world!\n");
 	return 0;
 }
